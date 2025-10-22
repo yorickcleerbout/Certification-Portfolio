@@ -1,8 +1,6 @@
 # 🧠 Certification Portfolio
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)![Learning Focus](https://img.shields.io/badge/Focus-Continuous%20Learning-blue?style=for-the-badge)![Platform](https://img.shields.io/badge/Platform-Credly-orange?style=for-the-badge)
-
-![Last Updated](https://img.shields.io/badge/Updated-October%202025-lightgrey?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge) ![Learning Focus](https://img.shields.io/badge/Focus-Continuous%20Learning-blue?style=for-the-badge) ![Platform](https://img.shields.io/badge/Platform-Credly-orange?style=for-the-badge) ![Last Updated](https://img.shields.io/badge/Updated-October%202025-lightgrey?style=for-the-badge)
 
 ---
 
