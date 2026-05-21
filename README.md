@@ -1,6 +1,6 @@
 # 🧠 Certification Portfolio
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge) ![Learning Focus](https://img.shields.io/badge/Focus-Continuous%20Learning-blue?style=for-the-badge) ![Platform](https://img.shields.io/badge/Platform-Credly-orange?style=for-the-badge) ![Last Updated](https://img.shields.io/badge/Updated-October%202025-lightgrey?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge) ![Learning Focus](https://img.shields.io/badge/Focus-Continuous%20Learning-blue?style=for-the-badge) ![Platform](https://img.shields.io/badge/Platform-Credly-orange?style=for-the-badge) ![Last Updated|205](https://img.shields.io/badge/Updated-May%202026-lightgrey?style=for-the-badge)
 
 ---
 
@@ -26,7 +26,8 @@ The purpose of this portfolio is to:
 | --------------- | ----- | ------------------------------------------------------------------------------------ |
 | **Completed**   | 1     | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=flat-square)  |
 | **In Progress** | 1     | ![In Progress](https://img.shields.io/badge/-In%20Progress-yellow?style=flat-square) |
-| **Planned**     | 0     | ![Planned](https://img.shields.io/badge/-Planned-lightgrey?style=flat-square)        |
+| **On Hold**     | 1     | ![In Progress](https://img.shields.io/badge/-on%20hold-orange?style=flat-square)     |
+| **Planned**     | 2     | ![Planned](https://img.shields.io/badge/-Planned-lightgrey?style=flat-square)        |
 
 ---
 
@@ -44,8 +45,10 @@ View my verified certifications on [**Credly**](https://www.credly.com/users/yor
 
 | Certification                        | Status                                                                                 | Folder                                                                    |
 | ------------------------------------ | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| TBD                                  | ![Planned](https://img.shields.io/badge/-Planned-lightgrey?style=for-the-badge)        |                                                                           |
-| **Kong Gateway Certified Associate** | ![In Progress](https://img.shields.io/badge/-In%20Progress-yellow?style=for-the-badge) | [`/kong-gateway-certified-associate`](./kong-gateway-certified-associate) |
+| **Workato Foundations Level 1**      | ![In Progress](https://img.shields.io/badge/-In%20progress-yellow?style=for-the-badge) |                                                                           |
+| **Workato Foundations Level 2**      | ![Planned](https://img.shields.io/badge/-Planned-lightgrey?style=for-the-badge)        |                                                                           |
+| **Workato Technical Developer**      | ![Planned](https://img.shields.io/badge/-Planned-lightgrey?style=for-the-badge)        |                                                                           |
+| **Kong Gateway Certified Associate** | ![On Hold](https://img.shields.io/badge/-on%20hold-orange?style=for-the-badge)         | [`/kong-gateway-certified-associate`](./kong-gateway-certified-associate) |
 | **AWS Certified Cloud Practitioner** | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=for-the-badge)  | *Not included in repo*                                                    |
 
 ---
