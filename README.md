@@ -46,8 +46,8 @@ View my verified certifications on [**Credly**](https://www.credly.com/users/yor
 
 | Certification                        | Status                                                                                 | Folder                                                                            |
 | ------------------------------------ | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| **Workato Foundations Level 2**      | ![In Progress](https://img.shields.io/badge/-In%20progress-yellow?style=for-the-badge) |                                                                                   |
 | **Workato Technical Developer**      | ![Planned](https://img.shields.io/badge/-Planned-lightgrey?style=for-the-badge)        |                                                                                   |
+| **Workato Foundations Level 2**      | ![In Progress](https://img.shields.io/badge/-In%20progress-yellow?style=for-the-badge) |                                                                                   |
 | **Workato Foundations Level 1**      | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=for-the-badge)  | [`/workato-foundations-level-1`](./workato-foundations-level-1/00.%20OVERVIEW.md) |
 | **Kong Gateway Certified Associate** | ![On Hold](https://img.shields.io/badge/-on%20hold-orange?style=for-the-badge)         | [`/kong-gateway-certified-associate`](./kong-gateway-certified-associate)         |
 | **AWS Certified Cloud Practitioner** | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=for-the-badge)  | *Not included in repo*                                                            |
