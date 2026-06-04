@@ -33,12 +33,12 @@ The purpose of this portfolio is to:
 
 ## 🏅 Certificate Showcase
 
-View my verified certifications on [**Credly**](https://www.credly.com/users/yorick-cleerbout) *(If available)*.  
+View my verified certifications on [**Credly**](https://www.credly.com/users/yorick-cleerbout) or [**Accredible**](https://credentials.workato.com/profile/yorickcleerbout903977/wallet) *(If available)*.  
 
 | Certification                        | Badge                                                                                                                                                                                           | Issued    |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| **Workato Foundations Level 2**      | ![WFL1\|138](./workato-foundations-level-2/assets/certificate.png)                                                                                                                              | June 2026 |
-| **Workato Foundations Level 1**      | ![WFL1\|138](./workato-foundations-level-1/assets/certificate.png)                                                                                                                              | May 2026  |
+| **Workato Foundations Level 2**      | [![WFL1\|138](./workato-foundations-level-2/assets/certificate.png)](https://credentials.workato.com/42541cef-9f6e-4966-88c3-5ef35be244ed#acc.awO7uzLq)                                         | June 2026 |
+| **Workato Foundations Level 1**      | [![WFL1\|138](./workato-foundations-level-1/assets/certificate.png)](https://credentials.workato.com/6f48a822-16e1-408a-ad68-81887b8bb212?username=yorickcleerbout903977)                       | May 2026  |
 | **AWS Certified Cloud Practitioner** | [![AWS CCP Badge](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/86e776bc-92f8-449e-9ed1-d3f35b7d0f74/public_url) | Oct 2022  |
 
 ---
