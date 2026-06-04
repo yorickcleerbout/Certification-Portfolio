@@ -55,3 +55,12 @@ View my verified certifications on [**Credly**](https://www.credly.com/users/yor
 | **AWS Certified Cloud Practitioner** | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=for-the-badge)  | *Not included in repo*                                                            |
 
 ---
+## ⚠️ Disclaimer  
+  
+*These notes are personal study materials created to support preparation for professional certification exams.*  
+  
+*They are provided for educational and informational purposes only. While every effort has been made to keep the content accurate and up to date, no guarantee is made regarding its completeness, accuracy, or suitability for any specific certification exam.*  
+  
+*The author is not affiliated with any certification provider unless explicitly stated and accepts no liability for any exam results, certification outcomes, professional decisions, or other consequences arising from the use of these materials.*  
+  
+*Use these notes at your own discretion.*
