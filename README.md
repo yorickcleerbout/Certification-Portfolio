@@ -24,8 +24,8 @@ The purpose of this portfolio is to:
 
 | Category        | Count | Status                                                                               |
 | --------------- | ----- | ------------------------------------------------------------------------------------ |
-| **Completed**   | 4     | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=flat-square)  |
-| **In Progress** | 1     | ![In Progress](https://img.shields.io/badge/-In%20Progress-yellow?style=flat-square) |
+| **Completed**   | 5     | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=flat-square)  |
+| **In Progress** | 0     | ![In Progress](https://img.shields.io/badge/-In%20Progress-yellow?style=flat-square) |
 | **On Hold**     | 1     | ![In Progress](https://img.shields.io/badge/-on%20hold-orange?style=flat-square)     |
 | **Planned**     | 0     | ![Planned](https://img.shields.io/badge/-Planned-lightgrey?style=flat-square)        |
 
@@ -37,6 +37,7 @@ View my verified certifications on [**Credly**](https://www.credly.com/users/yor
 
 | Certification                        | Badge                                                                                                                                                                                           | Issued    |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| **Workato Technical Architect**      | [![WTA\|138](./workato-technical-architect/assets/badge.png)](https://credentials.workato.com/73abc52f-6758-4d30-862a-b36dbac1e6ab)                                                             | July 2026 |
 | **Workato Technical Developer**      | [![WTD\|138](./workato-technical-developer/assets/badge.png)](https://credentials.workato.com/708488be-2ace-490f-8e46-a593ae588aad#acc.1b7D2zKJ)                                                | July 2026 |
 | **Workato Foundations Level 2**      | [![WFL1\|138](./workato-foundations-level-2/assets/certificate.png)](https://credentials.workato.com/42541cef-9f6e-4966-88c3-5ef35be244ed#acc.v0Yk5a8p)                                         | June 2026 |
 | **Workato Foundations Level 1**      | [![WFL1\|138](./workato-foundations-level-1/assets/certificate.png)](https://credentials.workato.com/6f48a822-16e1-408a-ad68-81887b8bb212?username=yorickcleerbout)                             | May 2026  |
@@ -46,14 +47,16 @@ View my verified certifications on [**Credly**](https://www.credly.com/users/yor
 
 ## 📚 Learning Tracks
 
-| Certification                        | Status                                                                                                                                                                      | Folder                                                                            |
-| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| **Workato Technical Architect**      | %% ![Planned](https://img.shields.io/badge/-Planned-lightgrey?style=for-the-badge) %%![In Progress](https://img.shields.io/badge/-In%20progress-yellow?style=for-the-badge) |                                                                                   |
-| **Workato Technical Developer**      | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=for-the-badge)                                                                                       | [`/workato-technical-developer`](./workato-technical-developer/00.%20OVERVIEW.md) |
-| **Workato Foundations Level 2**      | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=for-the-badge)                                                                                       | [`/workato-foundations-level-2`](./workato-foundations-level-2/00.%20OVERVIEW.md) |
-| **Workato Foundations Level 1**      | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=for-the-badge)                                                                                       | [`/workato-foundations-level-1`](./workato-foundations-level-1/00.%20OVERVIEW.md) |
-| **Kong Gateway Certified Associate** | ![On Hold](https://img.shields.io/badge/-on%20hold-orange?style=for-the-badge)                                                                                              | [`/kong-gateway-certified-associate`](./kong-gateway-certified-associate)         |
-| **AWS Certified Cloud Practitioner** | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=for-the-badge)                                                                                       | *Not included in repo*                                                            |
+| Certification                                               | Status                                                                                | Folder                                                                            |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **Workato Customer Onboarding 3.0 (OCP) - Project Manager** | ![Planned](https://img.shields.io/badge/-Planned-lightgray?style=for-the-badge)       |                                                                                   |
+| **Workato Customer Onboarding 3.0 (OCP) - Technical**       | ![Planned](https://img.shields.io/badge/-Planned-lightgray?style=for-the-badge)       |                                                                                   |
+| **Workato Technical Architect**                             | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=for-the-badge) | [`/workato-technical-architect`](./workato-technical-architect/00.%20OVERVIEW.md) |
+| **Workato Technical Developer**                             | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=for-the-badge) | [`/workato-technical-developer`](./workato-technical-developer/00.%20OVERVIEW.md) |
+| **Workato Foundations Level 2**                             | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=for-the-badge) | [`/workato-foundations-level-2`](./workato-foundations-level-2/00.%20OVERVIEW.md) |
+| **Workato Foundations Level 1**                             | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=for-the-badge) | [`/workato-foundations-level-1`](./workato-foundations-level-1/00.%20OVERVIEW.md) |
+| **Kong Gateway Certified Associate**                        | ![On Hold](https://img.shields.io/badge/-on%20hold-orange?style=for-the-badge)        | [`/kong-gateway-certified-associate`](./kong-gateway-certified-associate)         |
+| **AWS Certified Cloud Practitioner**                        | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=for-the-badge) | *Not included in repo*                                                            |
 
 ---
 ## ⚠️ Disclaimer  
