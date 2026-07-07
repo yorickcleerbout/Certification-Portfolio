@@ -27,7 +27,7 @@ The purpose of this portfolio is to:
 | **Completed**   | 5     | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=flat-square)  |
 | **In Progress** | 0     | ![In Progress](https://img.shields.io/badge/-In%20Progress-yellow?style=flat-square) |
 | **On Hold**     | 1     | ![In Progress](https://img.shields.io/badge/-on%20hold-orange?style=flat-square)     |
-| **Planned**     | 0     | ![Planned](https://img.shields.io/badge/-Planned-lightgrey?style=flat-square)        |
+| **Planned**     | 2     | ![Planned](https://img.shields.io/badge/-Planned-lightgrey?style=flat-square)        |
 
 ---
 
@@ -35,13 +35,13 @@ The purpose of this portfolio is to:
 
 View my verified certifications on [**Credly**](https://www.credly.com/users/yorick-cleerbout) or [**Accredible**](https://credentials.workato.com/profile/yorickcleerbout/wallet) *(If available)*.  
 
-| Certification                        | Badge                                                                                                                                                                                           | Issued    |
-| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| **Workato Technical Architect**      | [![WTA\|138](./workato-technical-architect/assets/badge.png)](https://credentials.workato.com/73abc52f-6758-4d30-862a-b36dbac1e6ab)                                                             | July 2026 |
-| **Workato Technical Developer**      | [![WTD\|138](./workato-technical-developer/assets/badge.png)](https://credentials.workato.com/708488be-2ace-490f-8e46-a593ae588aad#acc.1b7D2zKJ)                                                | July 2026 |
-| **Workato Foundations Level 2**      | [![WFL1\|138](./workato-foundations-level-2/assets/certificate.png)](https://credentials.workato.com/42541cef-9f6e-4966-88c3-5ef35be244ed#acc.v0Yk5a8p)                                         | June 2026 |
-| **Workato Foundations Level 1**      | [![WFL1\|138](./workato-foundations-level-1/assets/certificate.png)](https://credentials.workato.com/6f48a822-16e1-408a-ad68-81887b8bb212?username=yorickcleerbout)                             | May 2026  |
-| **AWS Certified Cloud Practitioner** | [![AWS CCP Badge](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/86e776bc-92f8-449e-9ed1-d3f35b7d0f74/public_url) | Oct 2022  |
+| Certification                        | Badge                                                                                                                                                                                                                 | Issued    |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| **Workato Technical Architect**      | <a href="https://credentials.workato.com/73abc52f-6758-4d30-862a-b36dbac1e6ab" target="_blank"><img src="workato-technical-architect/assets/badge.png" width="150" /><a/>                                             | July 2026 |
+| **Workato Technical Developer**      | <a href="https://credentials.workato.com/708488be-2ace-490f-8e46-a593ae588aad" target="_blank"><img src="workato-technical-developer/assets/badge.png" width="150" /><a/>                                             | July 2026 |
+| **Workato Foundations Level 2**      | <a href="https://credentials.workato.com/42541cef-9f6e-4966-88c3-5ef35be244ed" target="_blank"><img src="workato-foundations-level-2/assets/certificate.png" width="150" /><a/>                                       | June 2026 |
+| **Workato Foundations Level 1**      | <a href="https://credentials.workato.com/6f48a822-16e1-408a-ad68-81887b8bb212" target="_blank"><img src="workato-foundations-level-1/assets/certificate.png" width="150" /><a/>                                       | May 2026  |
+| **AWS Certified Cloud Practitioner** | <a href="https://www.credly.com/badges/86e776bc-92f8-449e-9ed1-d3f35b7d0f74/public_url" target="_blank"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" /><a/> | Oct 2022  |
 
 ---
 
